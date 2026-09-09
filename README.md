@@ -1,6 +1,6 @@
 # CRISPR-Cas9 Target Identification & Off-Target Profiling Pipeline
 
-An production-grade bioinformatics workflow for discovering single-guide RNA (sgRNA) targets, scanning for canonical $5'-NGG-3'$ PAM motifs, evaluating off-target alignment risk using
+An bioinformatics workflow for discovering single-guide RNA (sgRNA) targets, scanning for canonical $5'-NGG-3'$ PAM motifs, evaluating off-target alignment risk using
  BLAST, and processing high-throughput sequencing reads to quantify Cas9 cleavage.
 
 ## Workflow Overview
